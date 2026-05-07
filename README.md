@@ -1,1 +1,6 @@
-Add Screenshots to readme
+![Docker Running - 1](screenshots/docker-compose-build-1.png)
+![Docker Running - 2](screenshots/docker-compose-build-2.png)
+![App Test](screenshots/testapp.png)
+![Db Test](screenshots/testdb.png)
+![Containers Running](screenshots/containers.png)
+![Docker Compose PS](screenshots/docker-compose-ps.png)

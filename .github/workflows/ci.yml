@@ -1,4 +1,4 @@
-name: Actions App CI
+name: DevOps App CI
 
 on:
   push:
